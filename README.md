@@ -22,12 +22,13 @@ Illustration of shape morphing.
 
 * Clone this repo
 ```
-git clone https://github.com/lixiang-ucas/WPS-Net.git
+git clone https://github.com/Lingjing324/Few-Shot-Learning-of-Part-Specific-Probability-Space-for-3D-Shape-Segmentation.git
 
 ```
 ## Dataset
 * Download the ShapeNet part dataset from https://www.shapenet.org/
 run notebook file data_preprocessing.ipynb to prepare the tfrecords.
+or: https://github.com/charlesq34/pointnet/blob/master/part_seg/download_data.sh
 
 
 ## Training & Test
